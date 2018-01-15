@@ -7,9 +7,9 @@
     "start": "nodemon ./index.js --ignore node_modules/ -e js,html,css"
   },
   "author": "Lawrence Caulker <locaulker@gmail.com>",
-  "repository" : {
-    "type" : "git",
-    "url" : "https://github.com/locaulker/Vue2Dev.git"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/locaulker/Vue2Dev.git"
   },
   "license": "UNLICENSED",
   "dependencies": {
